@@ -37,7 +37,7 @@ Insight-Driven Data Analyst Storytelling with Python | SQL | Excel | Power BI
 
 - 📧 **Email:** waseemnazeer043@gmail.com  
 - 🔗 **LinkedIn:** www.linkedin.com/in/waseem-nazeer-389041288
-- 💻 **GitHub:** [@mshariqbhutta](https://github.com/mshariqbhutta)  
+- 💻 **GitHub:** https://github.com/waseemnazeer11  
 
 ---
 
